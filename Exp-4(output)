@@ -1,0 +1,92 @@
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 1
+
+Enter Employee ID: 2
+Enter Name: Rahul
+Enter Salary: 15000
+Enter Experience: 2
+
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 2
+
+Employee Details
+
+Employee ID: 2
+Name: Rahul
+Salary: 15000
+Experience: 2 years
+
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 3
+
+Enter employee ID to modify: 2
+Enter new name: Rahul
+Enter new salary: 18000
+Enter new experience: 3
+
+Employee record modified successfully.
+
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 4
+
+Enter Employee ID to search: 2
+
+Employee Found!
+Employee ID: 2
+Name: Rahul
+Salary: 18000
+Experience: 3 years
+
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 5
+
+Records sorted by Employee ID successfully.
+
+===== DATABASE =====
+1. Create
+2. Display
+3. Modify
+4. Search
+5. Sort
+6. Exit
+
+Enter your choice: 6
+
+Exiting program...
+
+=== Code Execution Successful ===
