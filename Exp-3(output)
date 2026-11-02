@@ -1,0 +1,77 @@
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 1
+
+Enter number of elements: 5
+Enter elements: 42 16 73 28 51
+Bubble Sort: 16 28 42 51 73
+
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 2
+
+Enter number of elements: 5
+Enter elements:
+31 52 18 67 24
+Selection Sort: 18 24 31 52 67
+
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 3
+
+Enter number of elements: 5
+Enter elements: 45 21 68 32 57
+Insertion Sort: 21 32 45 57 68
+
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 4
+
+Enter number of elements: 6
+Enter elements: 71 24 58 13 46 35
+Quick Sort: 13 24 35 46 58 71
+
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 5
+
+Enter number of elements: 5
+Enter elements: 63 29 84 17 45
+Merge Sort: 17 29 45 63 84
+
+--- SORTING TECHNIQUES ---
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Quick Sort
+5. Merge Sort
+6. Exit
+Enter your choice: 6
+Exiting program...
+
+=== Code Execution Successful ===
