@@ -1,0 +1,98 @@
+Implementation of stack
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the item to be pushed: 15
+
+the item is pushed successfully!
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the item to be pushed: 25
+
+the item is pushed successfully!
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the item to be pushed: 35
+
+the item is pushed successfully!
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the item to be pushed: 45
+
+the item is pushed successfully!
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the item to be pushed: 55
+
+the item is pushed successfully!
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+
+Stack Overflow! Cannot push element.
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+
+Popped element is: 55
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+
+Stack elements (Top to Bottom):
+45
+35
+25
+15
+
+--- Main Menu ---
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+
+Exiting program...
+
+=== Code Execution Successful ===
