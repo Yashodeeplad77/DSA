@@ -1,0 +1,16 @@
+UART initialized: 9600 baud, 8-N-1
+
+1.Transmit 2.Receive 3.Exit
+Choice: 1
+Enter data: HELLO
+Transmitted: HELLO
+
+1.Transmit 2.Receive 3.Exit
+Choice: 2
+Enter incoming data: WORLD
+Received: WORLD
+
+1.Transmit 2.Receive 3.Exit
+Choice: 3
+
+=== Code Execution Successful ===
