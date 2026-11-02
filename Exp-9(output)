@@ -1,0 +1,16 @@
+Enter the number of vertices: 4
+Enter the adjacency matrix (0 indicates no edge):
+0 10 6 5
+10 0 15 0
+6 15 0 4
+5 0 4 0
+
+Minimum Spanning Tree using Prim's Algorithm:
+Edge    Weight
+1 - 2   10
+4 - 3   4
+1 - 4   5
+
+Total Minimum Cost = 19
+
+=== Code Execution Successful ===
