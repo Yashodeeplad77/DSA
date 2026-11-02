@@ -1,0 +1,52 @@
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element to insert: 15
+Successfully inserted 15 into the stack.
+
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element to insert: 25
+Successfully inserted 25 into the stack.
+
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 3
+Stack elements (Top -> Bottom): 25 -> 15 -> NULL
+
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 2
+Successfully deleted 25 from the stack.
+
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 3
+Stack elements (Top -> Bottom): 15 -> NULL
+
+--- STACK OPERATIONS MENU ---
+1. INSERT (Push)
+2. DELETE (Pop)
+3. DISPLAY
+4. EXIT
+Enter your choice: 4
+
+Exiting program...
+
+=== Code Execution Successful ===
